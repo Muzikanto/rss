@@ -1,0 +1,14 @@
+# ide
+.idea
+.vscode
+
+# dependencies
+node_modules
+
+# build
+dist
+.next
+
+# env
+.env.development.local
+.env.production.local
