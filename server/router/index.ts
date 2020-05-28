@@ -1,8 +1,8 @@
 import * as express from 'express';
-import rssRouter from "./rss";
+import getFeedRouter from './feed/get';
 
 const apiRouter = express.Router({mergeParams: true});
 
-apiRouter.use('/rss', rssRouter);
+apiRouter.get('/feed', getFeedRouter);
 
 export default apiRouter;

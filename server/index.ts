@@ -1,5 +1,6 @@
 import {Application} from 'express';
 import apiRouter from './router';
+import errorMiddleware from "./middleware/error";
 
 const next = require('next');
 const express = require('express');
@@ -17,6 +18,9 @@ app.prepare().then(() => {
     server.all('*', (req, res) => {
         return handle(req, res)
     });
+
+    server.use(errorMiddleware);
+
 
     server.listen(port, (err) => {
         if (err) throw err;
