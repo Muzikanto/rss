@@ -1,12 +1,10 @@
 import React from 'react';
 import {Card} from "@material-ui/core";
 import CardContent from "@material-ui/core/CardContent";
-import CardHeader from "@material-ui/core/CardHeader";
-import Avatar from "@material-ui/core/Avatar";
-import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import clsx from 'clsx';
+import {FeedPost} from "../../../server/router/feed/typings";
 
 const useStyles = makeStyles(() => ({
     root: {
@@ -15,10 +13,7 @@ const useStyles = makeStyles(() => ({
 }), {name: 'TextCard'});
 
 export interface TextCardData {
-    title: string;
-    date: string;
-    link: string;
-    description: string;
+    feed: FeedPost
 }
 
 export interface TextCardProps extends TextCardData {
@@ -27,15 +22,16 @@ export interface TextCardProps extends TextCardData {
 
 function TextCard(props: TextCardProps) {
     const classes = useStyles();
+    const feed = props.feed;
 
     return (
         <Card className={clsx(classes.root, props.className)}>
             <CardContent>
                 <Typography variant="h5" color="textSecondary" component="p">
-                    {props.title}
+                    {feed.title}
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                    {props.description}
+                    {feed.description}
                 </Typography>
             </CardContent>
         </Card>

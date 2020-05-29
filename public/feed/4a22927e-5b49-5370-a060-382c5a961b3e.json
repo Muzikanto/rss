@@ -1,0 +1,136 @@
+{
+  "title": "News –  – WordPress.org",
+  "description": "WordPress News",
+  "feedUrl": "https://wordpress.org/news/feed/",
+  "site": "https://wordpress.org/news",
+  "posts": [
+    {
+      "title": "The Month in WordPress: April 2020",
+      "type": "text",
+      "date": "2020-05-04T09:31:22.000Z",
+      "description": "April continued to be a challenging time for the WordPress community, with many under stay-at-home recommendations. However, it was also an exciting month in which we created new ways to connect with and inspire each other! This month, amazing contributors moved more WordCamps online and shipped new releases for WordPress and Gutenberg. For the latest, […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/05/the-month-in-wordpress-april-2020/",
+      "author": "Angela Jin",
+      "categories": [
+        "Month in WordPress"
+      ]
+    },
+    {
+      "title": "WordPress 5.4.1",
+      "type": "text",
+      "date": "2020-04-29T19:56:47.000Z",
+      "description": "WordPress 5.4.1 is now available! This security and maintenance release features 17 bug fixes in addition to 7 security fixes. Because this is a security release, it is recommended that you update your sites immediately. All versions since WordPress 3.7 have also been updated. WordPress 5.4.1 is a short-cycle security and maintenance release. The next […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/04/wordpress-5-4-1/",
+      "author": "Jake Spurlock",
+      "categories": [
+        "Releases",
+        "Security"
+      ]
+    },
+    {
+      "title": "People of WordPress: Mario Peshev",
+      "type": "text",
+      "date": "2020-04-08T00:57:03.000Z",
+      "description": "In the April edition of our \"People of WordPress\" series, you'll find out how Mario Peshev went from self-taught developer to teaching basic digital literacy.",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/04/people-of-wordpress-mario-peshev/",
+      "author": "Yvette Sonneveld",
+      "categories": [
+        "Community",
+        "heropress"
+      ]
+    },
+    {
+      "title": "The Month in WordPress: March 2020",
+      "type": "text",
+      "date": "2020-04-03T12:01:00.000Z",
+      "description": "The month of March was both a tough and exciting time for the WordPress open-source project. With COVID-19 declared a pandemic, in-person events have had to adapt quickly – a challenge for any community. March culminated with the release of WordPress 5.4, an exhilarating milestone only made possible by dedicated contributors. For all the latest, […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/04/the-month-in-wordpress-march-2020/",
+      "author": "Hugh Lashbrooke",
+      "categories": [
+        "Month in WordPress"
+      ]
+    },
+    {
+      "title": "WordPress 5.4 “Adderley”",
+      "type": "video",
+      "date": "2020-03-31T19:04:02.000Z",
+      "description": "Version 5.4 \"Adderley\" of WordPress is available for download or update in your WordPress dashboard. This version brings you more ways to make content come alive with your best images and helps make your vision real by putting blocks in the perfect place.",
+      "preview": "https://s.w.org/images/core/5.4/textcolor.mp4",
+      "link": "https://wordpress.org/news/2020/03/adderley/",
+      "author": "Matt Mullenweg",
+      "categories": [
+        "Releases"
+      ]
+    },
+    {
+      "title": "WordPress 5.4 RC5",
+      "type": "text",
+      "date": "2020-03-28T00:47:08.000Z",
+      "description": "The fifth release candidate for WordPress 5.4 is live! WordPress 5.4 is currently scheduled to land on March 31 2020, and we need your help to get there—if you haven’t tried 5.4 yet, now is the time! You can test the WordPress 5.4 release candidate in two ways: Try the WordPress Beta Tester plugin (choose the “bleeding edge nightlies” option) […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/03/wordpress-5-4-rc5/",
+      "author": "David Baumwald",
+      "categories": [
+        "Development",
+        "Releases"
+      ]
+    },
+    {
+      "title": "WordPress 5.4 RC4",
+      "type": "text",
+      "date": "2020-03-24T22:00:07.000Z",
+      "description": "The fourth release candidate for WordPress 5.4 is live! WordPress 5.4 is currently scheduled to land on March 31 2020, and we need your help to get there—if you haven’t tried 5.4 yet, now is the time! You can test the WordPress 5.4 release candidate in two ways: Try the WordPress Beta Tester plugin (choose the “bleeding edge nightlies” option) […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/03/wordpress-5-4-rc4/",
+      "author": "Francesca Marano",
+      "categories": [
+        "Development",
+        "Releases"
+      ]
+    },
+    {
+      "title": "WordPress 5.4 RC3",
+      "type": "text",
+      "date": "2020-03-17T21:24:24.000Z",
+      "description": "The third release candidate for WordPress 5.4 is now available! WordPress 5.4 is currently scheduled to be released on March 31 2020, and we need your help to get there—if you haven’t tried 5.4 yet, now is the time! There are two ways to test the WordPress 5.4 release candidate: Try the WordPress Beta Tester plugin (choose the “bleeding edge […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/03/wordpress-5-4-rc3/",
+      "author": "David Baumwald",
+      "categories": [
+        "Development",
+        "Releases"
+      ]
+    },
+    {
+      "title": "WordPress 5.4 RC2",
+      "type": "text",
+      "date": "2020-03-10T21:40:51.000Z",
+      "description": "The second release candidate for WordPress 5.4 is now available! WordPress 5.4 is currently scheduled to be released on March 31 2020, and we need your help to get there—if you haven’t tried 5.4 yet, now is the time! There are two ways to test the WordPress 5.4 release candidate: Try the WordPress Beta Tester plugin (choose the “bleeding edge […]",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/03/wordpress-5-4-rc2/",
+      "author": "Francesca Marano",
+      "categories": [
+        "Development",
+        "Releases"
+      ]
+    },
+    {
+      "title": "People of WordPress: Mary Job",
+      "type": "text",
+      "date": "2020-03-06T16:30:43.000Z",
+      "description": "In the March edition of our \"People of WordPress\" series, you'll find out how Mary Job grew from a timid, curious cat into a public speaker and organizer of WordPress Meetups and WordCamps.",
+      "preview": "",
+      "link": "https://wordpress.org/news/2020/03/people-of-wordpress-mary-job/",
+      "author": "Yvette Sonneveld",
+      "categories": [
+        "Community",
+        "heropress",
+        "Interviews"
+      ]
+    }
+  ]
+}

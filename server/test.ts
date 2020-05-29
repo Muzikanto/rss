@@ -1,6 +1,5 @@
 // @ts-ignore
 import parseFeeds from "./lib/feed/parse-feed";
-import prepareFeedName from "./lib/feed/utils/feed-name";
 import saveFeed from "./lib/feed/utils/save-feed";
 import convertRawFeed from "./lib/feed/convert-feed";
 
@@ -16,10 +15,9 @@ const arr = [
 
 arr.forEach((url) => {
     parseFeeds(url).then(data => {
-       const fileName = prepareFeedName(url);
        const feed = convertRawFeed(data, url);
 
-       saveFeed(fileName, feed);
+       saveFeed(url, feed);
     }).catch(console.log)
 });
 

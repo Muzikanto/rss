@@ -49,7 +49,6 @@ feed:
 ```
 
 - Examples of RSS feed URLs:
-
   - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
   - https://techcrunch.com/feed/
   - https://wordpress.org/news/feed/

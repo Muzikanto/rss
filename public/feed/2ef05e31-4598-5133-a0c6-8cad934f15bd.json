@@ -1,0 +1,327 @@
+{
+  "title": "TechCrunch",
+  "description": "Startup and Technology News",
+  "feedUrl": "https://techcrunch.com/feed/",
+  "site": "https://techcrunch.com",
+  "posts": [
+    {
+      "title": "SpaceX’s Starship SN4 launch vehicle prototype explodes after static engine fire test",
+      "type": "text",
+      "date": "2020-05-29T19:08:08.000Z",
+      "description": "SpaceX had just conducted yet another static fire test of the Raptor engine in its Starship SN4 prototype launch vehicle on Friday when the test vehicle exploded on the test stand. This was the fourth static fire test of this engine on this prototype, so it’s unclear what went wrong vs. other static fire attempts. […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/spacexs-starship-sn4-launch-vehicle-prototype-explodes-after-static-engine-fire-test/",
+      "author": "Darrell Etherington",
+      "categories": [
+        "Aerospace",
+        "Space",
+        "TC",
+        "Falcon 9",
+        "falcon heavy"
+      ]
+    },
+    {
+      "title": "YouTube and Tribeca’s global online film festival starts today",
+      "type": "text",
+      "date": "2020-05-29T19:05:18.000Z",
+      "description": "Today, the online film festival We Are One is kicking off 10 days of films, talks, musical performances and VR experiences. The event is a collaboration between Tribeca Enterprises (the organization behind the Tribeca Film Festival) and YouTube, with help from 21 film festivals from around the world. Think of it as an attempt to […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/youtube-tribeca-we-are-one/",
+      "author": "Anthony Ha",
+      "categories": [
+        "Entertainment",
+        "Media",
+        "tribeca enterprises",
+        "tribeca film festival",
+        "YouTube"
+      ]
+    },
+    {
+      "title": "Aaron Levie: ‘We have way too many manual processes in businesses’",
+      "type": "text",
+      "date": "2020-05-29T19:03:10.000Z",
+      "description": "Box CEO Aaron Levie has been working to change the software world for 15 years, but the pandemic has accelerated the move to cloud services much faster than anyone imagined. As he pointed out yesterday in an Extra Crunch Live interview, who would have thought three months ago that businesses like yoga and cooking classes […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/aaron-levie-we-have-way-too-many-manual-processes-in-businesses/",
+      "author": "Ron Miller",
+      "categories": [
+        "Cloud",
+        "ECL",
+        "Enterprise",
+        "SaaS",
+        "TC"
+      ]
+    },
+    {
+      "title": "Salesforce stock is taking a hit today after lighter guidance in yesterday’s earning’s report",
+      "type": "text",
+      "date": "2020-05-29T18:28:45.000Z",
+      "description": "In spite of a positive quarter with record revenue that beat analysts’ estimates, Salesforce stock was taking a hit today because of lighter guidance. Wall Street is a tough audience. The stock was down $8.29/share, or 4.58%, as of 2:15 pm ET. The guidance, which was a projection for next quarter’s earnings, was lighter than […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/salesforce-stock-is-taking-a-hit-today-after-lighter-guidance-in-yesterdays-earnings-report/",
+      "author": "Ron Miller",
+      "categories": [
+        "Cloud",
+        "Earnings",
+        "Enterprise",
+        "SaaS",
+        "CRM"
+      ]
+    },
+    {
+      "title": "Audi launches high-tech car unit Artemis to fast-track a ‘pioneering’ EV to market",
+      "type": "text",
+      "date": "2020-05-29T18:15:57.000Z",
+      "description": "Audi has created a new business unit called Artemis to bring electric vehicles equipped with highly automated driving systems and other tech to market faster — the latest bid by the German automaker to become more agile and competitive. The traditional automotive industry, where the design to start of production cycle might take five to […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/audi-launches-high-tech-car-unit-artemis-to-fast-track-a-pioneering-ev-to-market/",
+      "author": "Kirsten Korosec",
+      "categories": [
+        "Automotive",
+        "TC",
+        "Audi",
+        "Audi AG",
+        "cars"
+      ]
+    },
+    {
+      "title": "Daily Crunch: Trump takes aim at social media companies",
+      "type": "text",
+      "date": "2020-05-29T17:59:55.000Z",
+      "description": "President Trump follows through on his threat to challenge the legal protections enjoyed by social media and internet companies, Magic Leap’s CEO is stepping down and China sees its biggest autonomous driving round yet. Here’s your Daily Crunch for May 29, 2020. 1. Trump signs an executive order taking direct aim at social media companies […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/daily-crunch-trump-takes-aim-at-social-media-companies/",
+      "author": "Anthony Ha",
+      "categories": [
+        "Policy",
+        "Social",
+        "Daily Crunch",
+        "donald trump",
+        "Twitter"
+      ]
+    },
+    {
+      "title": "Echo Looks will cease functioning in July, as Amazon discontinues the camera",
+      "type": "text",
+      "date": "2020-05-29T17:54:45.000Z",
+      "description": "Introduced in mid-2017, the Look was one of the more obscure — and, honestly, kind of bizarre — entries in the Echo line. It was a small camera designed to take videos and selfies of its owner, using machine learning to help choose outfits. No surprise, really, that it never caught fire. And now, three […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/echo-looks-will-cease-functioning-in-july-as-amazon-discontinues-the-camera/",
+      "author": "Brian Heater",
+      "categories": [
+        "Hardware",
+        "Amazon",
+        "echo",
+        "echo look"
+      ]
+    },
+    {
+      "title": "The best investment every digital brand can make during the COVID-19 pandemic",
+      "type": "text",
+      "date": "2020-05-29T17:29:41.000Z",
+      "description": "Customers don’t just forget about the companies that treated them well — and post-crisis, they’ll be more likely to return to the vendors who gave them a good experience.",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/the-best-investment-every-digital-brand-can-make-during-the-covid-19-pandemic/",
+      "author": "Walter Thompson",
+      "categories": [
+        "Column",
+        "eCommerce",
+        "Extra Crunch",
+        "Growth and Monetization",
+        "Growth Marketing"
+      ]
+    },
+    {
+      "title": "TinyML is giving hardware new life",
+      "type": "text",
+      "date": "2020-05-29T16:45:06.000Z",
+      "description": "Today and going forward, billions of tiny devices will act as an extension of our brains, feelings and emotions as a natural extension of everyday life.",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/tinyml-is-giving-hardware-new-life/",
+      "author": "Walter Thompson",
+      "categories": [
+        "Artificial Intelligence",
+        "Biotech",
+        "Cloud",
+        "Column",
+        "Extra Crunch"
+      ]
+    },
+    {
+      "title": "Bunq adds donations to charities and tests redesign",
+      "type": "text",
+      "date": "2020-05-29T16:00:59.000Z",
+      "description": "Challenger bank Bunq is adding a new feature that lets you donate to charities directly from the app. In addition to that, Bunq is also in the process of redesigning its app. The company is launching a public beta test to get feedback from its users. Other fintech startups, such as Revolut and Lydia, have […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/bunq-adds-donations-to-charities-and-tests-redesign/",
+      "author": "Romain Dillet",
+      "categories": [
+        "Europe",
+        "Finance",
+        "Startups",
+        "Bunq",
+        "challenger bank"
+      ]
+    },
+    {
+      "title": "Twitter, Reddit challenge US rules forcing visa applicants to disclose their social media handles",
+      "type": "text",
+      "date": "2020-05-29T15:56:06.000Z",
+      "description": "Twitter and Reddit have filed an amicus brief in support of a lawsuit challenging a U.S. government rule change compelling visa applicants to disclose their social media handles. The lawsuit, brought by the Knight First Amendment Institute at Columbia University, the Brennan Center for Justice and law firm Simpson Thacher & Bartlett, seeks to undo […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/twitter-reddit-visa-social-media-handles/",
+      "author": "Zack Whittaker",
+      "categories": [
+        "Government",
+        "Policy",
+        "Privacy",
+        "Security",
+        "Columbia University"
+      ]
+    },
+    {
+      "title": "How to upgrade your at-home videoconference setup: Lighting edition",
+      "type": "text",
+      "date": "2020-05-29T15:27:35.000Z",
+      "description": "In this installment of our ongoing series around making the most of your at-home video setup, we’re going to focus on one of the most important, but least well-understood or implemented parts of the equation: Lighting. While it isn’t actually something that requires a lot of training, expertise or even equipment to get right, it’s […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/how-to-upgrade-your-at-home-videoconference-setup-lighting-edition/",
+      "author": "Darrell Etherington",
+      "categories": [
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Amazon",
+        "lighting"
+      ]
+    },
+    {
+      "title": "Uber’s latest feature lets riders book by the hour and make multiple stops",
+      "type": "text",
+      "date": "2020-05-29T15:09:07.000Z",
+      "description": "Uber is bringing a new feature to the U.S. that lets users book rides for $50 an hour and make multiple stops as the ride-hailing company tries to respond to changing consumer needs during the COVID-19 pandemic. The hourly booking feature, which is already available in a handful of international cities in Australia, Africa, Europe […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/uber-latest-features-lets-riders-book-by-the-hour-and-make-multiple-stops/",
+      "author": "Kirsten Korosec",
+      "categories": [
+        "Automotive",
+        "Transportation",
+        "africa",
+        "Atlanta",
+        "Australia"
+      ]
+    },
+    {
+      "title": "How startups can leverage elastic services for cost optimization",
+      "type": "text",
+      "date": "2020-05-29T14:18:48.000Z",
+      "description": "The landscape shifts quickly, but managed services providers enable organizations to repurpose full-time staff members from impacted operations to more strategic product lines or initiatives.",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/how-startups-can-leverage-elastic-services-for-cost-optimization/",
+      "author": "Walter Thompson",
+      "categories": [
+        "Cloud",
+        "Column",
+        "Enterprise",
+        "Extra Crunch",
+        "Finance"
+      ]
+    },
+    {
+      "title": "Google’s latest experiment encourages social distancing through AR",
+      "type": "text",
+      "date": "2020-05-29T13:31:03.000Z",
+      "description": "Several months into this pandemic, you can no doubt already eyeball six feet/two meters with the best of them. But if you’re still having trouble — and happen to have an Android device handy — Google’s got you covered, I guess. The latest project out of the company’s Experiments with Google collection, Sodar is a […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/googles-latest-experiment-encourages-social-distancing-through-ar/",
+      "author": "Brian Heater",
+      "categories": [
+        "Apps",
+        "Augmented Reality",
+        "Health",
+        "AR",
+        "coronavirus"
+      ]
+    },
+    {
+      "title": "Tech talent is flocking to smaller cities, but investors aren’t",
+      "type": "text",
+      "date": "2020-05-29T13:00:49.000Z",
+      "description": "Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This week’s show took a break from regularly scheduled programming. Our co-host Alex Wilhelm, who usually leads us through the show, was on some much-deserved vacation, so Danny Crichton and Natasha Mascarenhas took the reigns and invited […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/tech-talent-is-flocking-to-smaller-cities-but-investors-arent/",
+      "author": "Natasha Mascarenhas",
+      "categories": [
+        "Podcasts",
+        "TC",
+        "Venture Capital",
+        "bytedance",
+        "coronavirus"
+      ]
+    },
+    {
+      "title": "Facebook takes on Twitter with Venue, a ‘second screen’ companion for live events",
+      "type": "text",
+      "date": "2020-05-29T13:00:21.000Z",
+      "description": "Facebook’s R&D group, NPE Team, is launching Venue, a new app for engaging fellow fans around live events. This is the third new app to launch this week from Facebook’s internal team focused on experimenting with new concepts in social networking. With Venue, the company aims to offer a digital companion for live events, starting […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/facebook-takes-on-twitter-with-venue-a-second-screen-companion-for-live-events/",
+      "author": "Sarah Perez",
+      "categories": [
+        "Apps",
+        "Social",
+        "TC",
+        "Facebook",
+        "live events"
+      ]
+    },
+    {
+      "title": "Cisco to acquire internet monitoring solution ThousandEyes",
+      "type": "text",
+      "date": "2020-05-29T12:30:23.000Z",
+      "description": "When Cisco bought AppDynamics in 2017 for $3.7 billion just before the IPO, the company sent a clear signal it wanted to move beyond its pure network hardware roots into the software monitoring side of the equation. Yesterday afternoon the company announced it intends to buy another monitoring company, this time snagging internet monitoring solution […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/cisco-to-acquire-internet-monitoring-solution-thousandeyes/",
+      "author": "Ron Miller",
+      "categories": [
+        "Enterprise",
+        "Exit",
+        "Fundings & Exits",
+        "M&A",
+        "Startups"
+      ]
+    },
+    {
+      "title": "Uber UK launches Work Hub for drivers to find other gig jobs during COVID-19",
+      "type": "text",
+      "date": "2020-05-29T12:07:56.000Z",
+      "description": "Uber U.K. has launched a Work Hub for drivers to view a selection of temporary work opportunities with other companies as a way to supplement pandemic-hit ride-hailing earnings during the coronavirus crisis. The Work Hub sits within the Uber driver app and displays offers of work from third party providers — including jobs that involve […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/uber-uk-launches-work-hub-for-drivers-to-find-other-gig-jobs-during-covid-19/",
+      "author": "Natasha Lomas",
+      "categories": [
+        "Apps",
+        "Collaborative Consumption",
+        "Europe",
+        "coronavirus",
+        "COVID-19"
+      ]
+    },
+    {
+      "title": "SoftBank led $500M investment in Didi in China’s biggest autonomous driving round",
+      "type": "text",
+      "date": "2020-05-29T11:21:26.000Z",
+      "description": "The race to automate vehicles on China’s roads is heating up. Didi, the Uber of China, announced on Friday an outsized investment of over $500 million in its freshly minted autonomous driving subsidiary. Leading the round — the single largest fundraising round in China’s autonomous driving sector — is its existing investor Softbank, the Japanese […]",
+      "preview": "",
+      "link": "https://techcrunch.com/2020/05/29/softbank-pours-500m-into-didi-in-chinas-biggest-autonomous-driving-round/",
+      "author": "Rita Liao",
+      "categories": [
+        "Asia",
+        "Automotive",
+        "TC",
+        "Transportation",
+        "Aptiv"
+      ]
+    }
+  ]
+}

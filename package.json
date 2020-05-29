@@ -30,7 +30,9 @@
         "path": "^0.12.7",
         "react": "16.13.1",
         "react-dom": "16.13.1",
-        "rss-parser": "3.8.0"
+        "react-player": "^2.1.0",
+        "rss-parser": "3.8.0",
+        "uuid-by-string": "^3.0.2"
     },
     "devDependencies": {
         "@types/react": "16.9.16",

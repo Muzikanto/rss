@@ -8,6 +8,8 @@ import Typography from "@material-ui/core/Typography";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import clsx from 'clsx';
 import red from "@material-ui/core/colors/red";
+import {FeedPost} from "../../../server/router/feed/typings";
+import ReactPlayer from 'react-player';
 
 const useStyles = makeStyles(() => ({
     root: {
@@ -22,40 +24,44 @@ const useStyles = makeStyles(() => ({
     },
 }), {name: 'MediaCard'});
 
-export interface MediaCardData {
-    title: string;
-    date: string;
-    preview: string;
-    link: string;
-    description: string;
-}
-
-export interface MediaCardProps extends MediaCardData {
+export interface MediaCardProps {
     className?: string;
+    feed: FeedPost;
 }
 
 function MediaCard(props: MediaCardProps) {
     const classes = useStyles();
+
+    const feed = props.feed;
 
     return (
         <Card className={clsx(classes.root, props.className)}>
             <CardHeader
                 avatar={
                     <Avatar aria-label="logo" className={classes.avatar}>
-                        {props.title.slice(0, 1)}
+                        {feed.title.slice(0, 1)}
                     </Avatar>
                 }
-                title={props.title}
-                subheader={new Date(props.date).toLocaleDateString()}
+                title={feed.title}
+                subheader={new Date(feed.date).toLocaleDateString()}
             />
-            <CardMedia
-                className={classes.media}
-                image={props.preview}
-                title={props.title}
-            />
+            {
+                feed.type === 'image' ?
+                    <CardMedia
+                        className={classes.media}
+                        image={feed.preview}
+                        title={feed.title}
+                    /> :
+                    <ReactPlayer
+                        width={345}
+                        height={195}
+                        controls
+                        url={feed.preview}
+                    />
+            }
             <CardContent>
                 <Typography variant="body2" color="textSecondary" component="p">
-                    {props.description}
+                    {feed.description}
                 </Typography>
             </CardContent>
         </Card>

@@ -1,4 +1,4 @@
-import {Item, Output} from "rss-parser";
+import {Output} from "rss-parser";
 
 const Parser = require('rss-parser');
 
@@ -9,7 +9,7 @@ async function parseFeed(url: string): Promise<Output> {
         },
         customFields: {
             feed: [],
-            item: ['media:content'],
+            item: ['url', 'media:content'],
         }
     });
 

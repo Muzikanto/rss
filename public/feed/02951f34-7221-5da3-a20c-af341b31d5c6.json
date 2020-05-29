@@ -1,0 +1,921 @@
+{
+  "title": "NYT > Top Stories",
+  "description": "",
+  "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+  "site": "https://www.nytimes.com",
+  "pubDate": "Fri, 29 May 2020 19:12:34 +0000",
+  "posts": [
+    {
+      "title": "George Floyd Live Updates: Officer Derek Chauvin Charged With Murder",
+      "type": "image",
+      "date": "2020-05-29T18:32:40.000Z",
+      "description": "The former police officer seen on video using his knee to pin down George Floyd, a black man who later died, has been taken into custody and charged with third-degree murder.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/video/29MINNEAPOLIS-VIDEO/merlin_172942449_8cff6994-4c1d-4a84-bdc0-ad9103829814-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/george-floyd-minneapolis-protests.html",
+      "categories": [
+        "Floyd, George (d 2020)",
+        "Demonstrations, Protests and Riots",
+        "Police Brutality, Misconduct and Shootings",
+        "Police Department (Minneapolis, Minn)",
+        "Minneapolis (Minn)"
+      ]
+    },
+    {
+      "title": "George Floyd Death: How the Knee-on-Neck Hold Resulted in Tragedy",
+      "type": "image",
+      "date": "2020-05-29T14:51:22.000Z",
+      "description": "Police departments have tried to ban or severely limit the use of chokeholds and neck restraints. But in Minneapolis, a knee pressing on a neck led to a man’s death.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/us/29minneapolis-kneehold/29minneapolis-kneehold-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/knee-neck-george-floyd-death.html",
+      "author": "Neil MacFarquhar",
+      "categories": [
+        "Police Brutality, Misconduct and Shootings",
+        "Black People",
+        "Police",
+        "Police Department (Minneapolis, Minn)",
+        "Floyd, George (d 2020)"
+      ]
+    },
+    {
+      "title": "Protests in Minnesota Renew Scrutiny of Klobuchar’s Record as Prosecutor",
+      "type": "image",
+      "date": "2020-05-29T17:19:29.000Z",
+      "description": "Amy Klobuchar, now being considered as a potential vice-presidential candidate, oversaw several cases involving police shootings in Minneapolis during her years as a prosecutor.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/us/politics/29klobuchar/29klobuchar-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/politics/klobuchar-minneapolis-george-floyd.html",
+      "author": "Nick Corasaniti and Katie Glueck",
+      "categories": [
+        "Presidential Election of 2020",
+        "Police Brutality, Misconduct and Shootings",
+        "Black People",
+        "United States Politics and Government",
+        "Race and Ethnicity"
+      ]
+    },
+    {
+      "title": "How Trump's Twitter Remarks Escalate Growing Crisis in Minneapolis",
+      "type": "image",
+      "date": "2020-05-29T18:26:09.000Z",
+      "description": "The president’s tweets prompted Twitter to append them with a note saying the posts were “glorifying violence.” Joe Biden condemned Mr. Trump, saying “it’s no time to encourage violence.”",
+      "preview": "https://static01.nyt.com/images/2020/05/29/us/politics/29dc-trump1/29dc-trump1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/politics/trump-looting-shooting.html",
+      "author": "Maggie Haberman and Alexander Burns",
+      "categories": [
+        "Police Brutality, Misconduct and Shootings",
+        "Black People",
+        "Race and Ethnicity",
+        "Demonstrations, Protests and Riots",
+        "Social Media"
+      ]
+    },
+    {
+      "title": "Twitter Places Warning on Trump Minneapolis Tweet, Saying It Glorified Violence",
+      "type": "image",
+      "date": "2020-05-29T17:32:57.000Z",
+      "description": "The president’s tweet, which implied that protesters in Minneapolis could be shot, could not be viewed without reading a brief notice, and users were blocked from liking or replying to it.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/world/29trump-twitter-1/29trump-twitter-1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/technology/trump-twitter-minneapolis-george-floyd.html",
+      "author": "Peter Baker, Raymond Zhong and Russell Goldman",
+      "categories": [
+        "Trump, Donald J",
+        "Twitter",
+        "Demonstrations, Protests and Riots",
+        "Social Media",
+        "Minneapolis (Minn)"
+      ]
+    },
+    {
+      "title": "How Trump’s Tweets Cause Collateral Damage for Families Already in Pain",
+      "type": "image",
+      "date": "2020-05-29T09:00:37.000Z",
+      "description": "The president’s baseless insinuations about the death of Lori Klausutis reflect a callous pattern that can leave even ordinary people facing threats from his supporters long after he has moved on.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/us/politics/28trump-innocents/28trump-innocents-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/politics/trump-scarborough-klausutis.html",
+      "author": "Patricia Mazzei, Jennifer Medina, Maggie Haberman and Sydney Ember",
+      "categories": [
+        "Rumors and Misinformation",
+        "Presidential Election of 2020",
+        "Grief (Emotion)",
+        "Trump, Donald J",
+        "Khan, Ghazala"
+      ]
+    },
+    {
+      "title": "Live Coronavirus News and Updates",
+      "type": "image",
+      "date": "2020-05-29T19:09:36.000Z",
+      "description": "New York City could start reopening on June 8, the governor said. Economists say that the path ahead for the economy is wildly uncertain. The House has trimmed its summer schedule.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/business/29virus-us-briefing-nyc/merlin_172804875_a1a1ed8d-0417-4ac6-b1d3-d158fee4d0b0-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/coronavirus-us-usa.html",
+      "categories": [
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "N.Y.C. Is Expected to Begin Reopening June 8: Live Updates",
+      "type": "image",
+      "date": "2020-05-29T18:54:10.000Z",
+      "description": "Governor Cuomo said he thought the city would meet health benchmarks by then. He also cleared five upstate regions for broader reopening.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/nyregion/29nyvirus-briefing-mta/merlin_172394637_a55b5dd5-e5aa-41db-ba56-031a61d4b40a-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/nyregion/coronavirus-ny-live-updates.html",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "New York State",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Inside an Extraordinary G.O.P. Event: ‘Pressing Flesh and Kissing Babies’ Again",
+      "type": "image",
+      "date": "2020-05-29T19:01:55.000Z",
+      "description": "At the South Carolina event, attended by Senators Lindsey Graham and Tim Scott, there were few masks and no social distancing — and that was the point.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/us/politics/29scgop1/merlin_172935594_e76f2465-9f43-413b-95c9-b7ac7daa5f10-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/politics/south-carolina-coronavirus-republicans.html",
+      "author": "Astead W. Herndon",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Elections, Senate",
+        "Republican Party",
+        "Graham, Lindsey"
+      ]
+    },
+    {
+      "title": "Live Stock Market News During the Coronavirus Pandemic",
+      "type": "image",
+      "date": "2020-05-29T18:53:25.000Z",
+      "description": "The latest on stock market and business news during the coronavirus outbreak.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/business/29DC-Powell/29DC-Powell-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/business/stock-market-today-coronavirus.html",
+      "categories": [
+        "Economic Conditions and Trends",
+        "United States Economy",
+        "Stocks and Bonds",
+        "Standard & Poor's 500-Stock Index",
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Forget Swooshes and V’s. The Economy’s Future Is a Question Mark.",
+      "type": "image",
+      "date": "2020-05-29T15:38:38.000Z",
+      "description": "Is it a V, an L or a W? Economists are giving up on assigning a letter to the wildly uncertain recovery that lies ahead.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/business/29virus-swoosh/29virus-swoosh-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/business/economy/economy-recovery-forecast-coronavirus.html",
+      "author": "Jeanna Smialek",
+      "categories": [
+        "United States Economy",
+        "Economic Conditions and Trends",
+        "Shutdowns (Institutional)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ]
+    },
+    {
+      "title": "Pandemic Forces Car Dealers to Do the Unthinkable: Sell Online",
+      "type": "image",
+      "date": "2020-05-29T09:00:29.000Z",
+      "description": "Dealerships have long resisted e-commerce, but with many showrooms closed, the dynamic is changing.",
+      "preview": "https://static01.nyt.com/images/2020/05/27/business/00virus-dealers1/00virus-dealers1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/business/car-dealers-sell-online-coronavirus.html",
+      "author": "Neal E. Boudette",
+      "categories": [
+        "Automobiles",
+        "E-Commerce",
+        "Computers and the Internet",
+        "Prices (Fares, Fees and Rates)",
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Economic Giants Are Restarting. Here’s What It Means for Climate Change.",
+      "type": "image",
+      "date": "2020-05-29T18:59:26.000Z",
+      "description": "Want to know whether the world can avert catastrophe? Watch the recovery plans coming out now in Europe, China and the United States.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/climate/29CLI-RECOVERY1/29CLI-RECOVERY1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/climate/coronavirus-economic-stimulus-climate.html",
+      "author": "Somini Sengupta",
+      "categories": [
+        "Stimulus (Economic)",
+        "Coronavirus (2019-nCoV)",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Alternative and Renewable Energy"
+      ]
+    },
+    {
+      "title": "Coronavirus Live World Updates: Moscow, Spain, Israel",
+      "type": "image",
+      "date": "2020-05-29T19:06:58.000Z",
+      "description": "Spain approves a minimum guaranteed income for 850,000 households. Israel’s daily cases jump.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/world/29virus-int-briefing-russiasub/29virus-int-briefing-russiasub-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/world/coronavirus-update.html",
+      "categories": [
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Its Coronavirus Caseload Soaring, India Is Reopening Anyway",
+      "type": "image",
+      "date": "2020-05-29T06:48:48.000Z",
+      "description": "Worried for its economy, India loosened tough restrictions and may lift them entirely this weekend. But infection numbers are climbing fast.",
+      "preview": "https://static01.nyt.com/images/2020/05/30/world/29virus-india-lockdown-3/29virus-india-lockdown-1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/world/asia/coronavirus-india-lockdown.html",
+      "author": "Kai Schultz and Sameer Yasir",
+      "categories": [
+        "India",
+        "Modi, Narendra",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Politics and Government"
+      ]
+    },
+    {
+      "title": "How ‘Quiz’, a Drama About Coughing, Captivated Lockdown Britain",
+      "type": "image",
+      "date": "2020-05-29T17:56:56.000Z",
+      "description": "The show, about a couple who cheated on a game show, is coming to AMC. It wasn’t just a hit in Britain; it changed attitudes toward one of that country’s strangest crimes.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/arts/29quiz1/29quiz1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/arts/television/quiz-millionaire-amc-macfadyen-graham.html",
+      "author": "Alex Marshall",
+      "categories": [
+        "Television",
+        "Coughs",
+        "AMC (TV Network)",
+        "Graham, James (1982- )",
+        "Sheen, Michael"
+      ]
+    },
+    {
+      "title": "One Hundred Thousand Lives",
+      "type": "image",
+      "date": "2020-05-29T17:30:38.000Z",
+      "description": "A dictionary collector. A wind chaser. A disco dancer. They are just a few of the more than 100,000 lost to the coronavirus in the U.S.",
+      "preview": "https://static01.nyt.com/images/2020/05/24/reader-center/29daily/NYT-front-page-05-24-20-moth-v2.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/podcasts/the-daily/obituaries-coronavirus-100000.html",
+      "categories": [
+        "United States",
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Obituaries)",
+        "Deaths (Fatalities)"
+      ]
+    },
+    {
+      "title": "A Trump vs. Twitter Week",
+      "type": "image",
+      "date": "2020-05-29T17:08:15.000Z",
+      "description": "It’s a pandemic, protests against police brutality are gripping the country, and the president of the United States and Twitter are battling it out.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/business/29ontech/29ontech-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/technology/trump-twitter-warning.html",
+      "author": "Shira Ovide",
+      "categories": [
+        "Twitter",
+        "Trump, Donald J",
+        "Social Media",
+        "Video Recordings, Downloads and Streaming"
+      ]
+    },
+    {
+      "title": "Sign Up: ‘Watching’",
+      "type": "text",
+      "date": "2020-05-29T17:11:16.000Z",
+      "description": "Get recommendations on the best TV shows and movies to watch.",
+      "preview": "",
+      "link": "https://www.nytimes.com/newsletters/watching",
+      "author": "The New York Times",
+      "categories": []
+    },
+    {
+      "title": "George Floyd's Death Shows the State Fails Black People",
+      "type": "image",
+      "date": "2020-05-29T18:45:30.000Z",
+      "description": "The collapse of politics and governance leaves no other option.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29Taylor/29Taylor-moth-v2.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/george-floyd-minneapolis.html",
+      "author": "Keeanga-Yamahtta Taylor",
+      "categories": [
+        "Black People",
+        "Police Brutality, Misconduct and Shootings",
+        "Minneapolis (Minn)",
+        "Demonstrations, Protests and Riots"
+      ]
+    },
+    {
+      "title": "Tony Kushner: Larry Kramer Howled the Truths We Needed to Hear",
+      "type": "image",
+      "date": "2020-05-29T15:34:57.000Z",
+      "description": "The playwright sacrificed his art in favor of an unrelenting commitment to activism.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29Kushner1/29Kushner1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/larry-kramer.html",
+      "author": "Tony Kushner",
+      "categories": [
+        "Writing and Writers",
+        "Theater",
+        "Homosexuality and Bisexuality",
+        "Acquired Immune Deficiency Syndrome",
+        "Books and Literature"
+      ]
+    },
+    {
+      "title": "What Can We Learn from the Coronavirus in Prisons",
+      "type": "image",
+      "date": "2020-05-29T12:50:47.000Z",
+      "description": "Research on the pandemic behind bars, ethically conducted, could help everyone.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29Howard1/29Howard1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/coronavirus-prison-outbreak.html",
+      "author": "Marc M. Howard",
+      "categories": [
+        "Prisons and Prisoners",
+        "Tests (Medical)",
+        "Coronavirus (2019-nCoV)",
+        "Quarantines",
+        "Research"
+      ]
+    },
+    {
+      "title": "After the Coronavirus, We Can Build a Better Child Care System",
+      "type": "image",
+      "date": "2020-05-29T09:00:19.000Z",
+      "description": "The coronavirus has highlighted how necessary good child care is.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29MeekWilliams/29MeekWilliams-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/childcare-coronavirus.html",
+      "author": "Shantel Meek and Conor P. Williams",
+      "categories": [
+        "Children and Childhood",
+        "Child Care",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Families and Family Life"
+      ]
+    },
+    {
+      "title": "The ‘Liberal World Order’ Was Built With Blood",
+      "type": "image",
+      "date": "2020-05-29T09:00:26.000Z",
+      "description": "As the United States reckons with its decline, it should understand where its power came from in the first place.",
+      "preview": "https://static01.nyt.com/images/2020/05/31/opinion/sunday/29Bevins1/29Bevins1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/united-states-cold-war.html",
+      "author": "Vincent Bevins",
+      "categories": [
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Cold War Era",
+        "Civilian Casualties",
+        "Coups D'Etat and Attempted Coups D'Etat"
+      ]
+    },
+    {
+      "title": "If We Had a Real Leader",
+      "type": "image",
+      "date": "2020-05-29T17:33:32.000Z",
+      "description": "Imagining Covid under a normal president.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/opinion/28brooksWeb/28brooksWeb-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/opinion/coronavirus-trump.html",
+      "author": "David Brooks",
+      "categories": [
+        "Humanities",
+        "Coronavirus (2019-nCoV)",
+        "Trump, Donald J",
+        "Presidents and Presidency (US)",
+        "Speeches and Statements"
+      ]
+    },
+    {
+      "title": "On the Economics of Not Dying",
+      "type": "image",
+      "date": "2020-05-28T22:30:08.000Z",
+      "description": "What good is increasing G.D.P. if it kills you?",
+      "preview": "https://static01.nyt.com/images/2020/05/28/opinion/28krugmanWeb/28krugmanWeb-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/opinion/coronavirus-economy-death.html",
+      "author": "Paul Krugman",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "United States Politics and Government",
+        "Gross Domestic Product",
+        "United States Economy"
+      ]
+    },
+    {
+      "title": "Did You Really Think Trump Would Mourn With Us?",
+      "type": "image",
+      "date": "2020-05-29T17:36:38.000Z",
+      "description": "The president’s indifference to collective grieving is of a piece with a political movement that denies our collective ties.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29boouie1/29boouie1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/coronovirus-mourning-trump.html",
+      "author": "Jamelle Bouie",
+      "categories": [
+        "Funerals and Memorials",
+        "Grief (Emotion)",
+        "Speeches and Statements",
+        "Civil War (US) (1861-65)",
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Why George Floyd Won't Be the Last American Killed by the Police",
+      "type": "image",
+      "date": "2020-05-28T22:50:03.000Z",
+      "description": "Videos of state-sponsored killings have been going viral for years. Little has changed.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/opinion/28debatableillo/28debatableillo-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/opinion/minneapolis-police-brutality.html",
+      "author": "Spencer Bokat-Lindell",
+      "categories": [
+        "debatable",
+        "Police",
+        "Police Brutality, Misconduct and Shootings",
+        "Racial Profiling",
+        "Black People"
+      ]
+    },
+    {
+      "title": "Coronavirus Isn't Killing NYC's Small Businesses. Rent Is.",
+      "type": "image",
+      "date": "2020-05-29T17:03:47.000Z",
+      "description": "It won’t be Amazon or the coronavirus. It will be artificially high rents.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/opinion/28mcnallyWeb/28mcnallyWeb-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/coronavirus-small-business-rent.html",
+      "author": "Sarah McNally",
+      "categories": [
+        "Renting and Leasing (Real Estate)",
+        "Landlords",
+        "Shopping and Retail",
+        "Real Estate (Commercial)",
+        "Amazon.com Inc"
+      ]
+    },
+    {
+      "title": "Jimmy Lai: Does Hong Kong Have a Fighting Chance Against China?",
+      "type": "image",
+      "date": "2020-05-29T09:07:12.000Z",
+      "description": "The Communist Party was always going to try to tame Hong Kong, but its latest efforts are something else.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/opinion/29lai/merlin_172935915_ed758bb3-0c89-462b-bf09-55fc5b3ef0d7-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/opinion/hong-kong-china-national-security-law.html",
+      "author": "Jimmy Lai",
+      "categories": [
+        "Law and Legislation",
+        "Secession and Independence Movements",
+        "Coronavirus (2019-nCoV)",
+        "Propaganda",
+        "Extradition"
+      ]
+    },
+    {
+      "title": "Is It Safe to Keep Employing a Cleaner? Wrong Question, Lady",
+      "type": "image",
+      "date": "2020-05-29T09:00:15.000Z",
+      "description": "Introducing your new Work Friend: Roxane Gay.",
+      "preview": "https://static01.nyt.com/images/2020/05/31/business/29WORKFRIEND-01/29WORKFRIEND-01-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/business/roxane-gay-work-friend.html",
+      "author": "Roxane Gay",
+      "categories": [
+        "Work-Life Balance",
+        "Careers and Professions",
+        "your-feed-selfcare",
+        "Workplace Environment"
+      ]
+    },
+    {
+      "title": "These Athletes Had the Coronavirus. Will They Ever Be the Same?",
+      "type": "image",
+      "date": "2020-05-29T16:57:44.000Z",
+      "description": "Von Miller of the Denver Broncos called the disease a “surreal” experience and said he struggled at first to workout. Other athletes have endured lingering lung and other health issues.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/sports/29coronaathletes-1/29coronaathletes-1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/sports/coronavirus-survivors-athletes.html",
+      "author": "Andrew Keh",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Exercise",
+        "Coronavirus Reopenings",
+        "Triathlon",
+        "Running"
+      ]
+    },
+    {
+      "title": "Charges Recommended Against 3 Officers Involved in Violent N.Y. Arrest",
+      "type": "image",
+      "date": "2020-05-29T18:55:11.000Z",
+      "description": "The charges would be in connection with a May 2 incident during which an officer sat on a man’s neck.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/nyregion/29nypd-misconduct/29nypd-misconduct-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/nyregion/nypd-officers-charged-social-distancing-arrest.html",
+      "author": "Ashley Southall",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Police Department (NYC)",
+        "Police Brutality, Misconduct and Shootings",
+        "Floyd, George (d 2020)",
+        "Garcia, Francisco X."
+      ]
+    },
+    {
+      "title": "Congress Calls State Dept. Officials for Interviews in Expanded Pompeo Inquiry",
+      "type": "image",
+      "date": "2020-05-29T18:47:47.000Z",
+      "description": "Lawmakers are investigating whether Secretary of State Mike Pompeo urged President Trump to fire Steve A. Linick, the department’s inspector general, to shield himself from Mr. Linick’s inquiries.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/us/politics/29dc-pompeo/29dc-pompeo-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/us/politics/mike-pompeo-inspector-general-congress.html",
+      "author": "Edward Wong",
+      "categories": [
+        "United States International Relations",
+        "Elections, Senate",
+        "Central Intelligence Agency",
+        "House Committee on Foreign Affairs",
+        "Raytheon Company"
+      ]
+    },
+    {
+      "title": "Knights of Columbus Founder, Who Died in a Pandemic, Moves Closer to Sainthood",
+      "type": "image",
+      "date": "2020-05-29T14:58:39.000Z",
+      "description": "Pope Francis has credited a 2015 miracle to the Rev. Michael J. McGivney, a Connecticut priest who died in 1890 during an outbreak that researchers now believe may have been caused by a coronavirus.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/multimedia/28xp-priest-image/merlin_22518893_5598103e-5ed1-4c59-b9a5-76567064fcb3-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/nyregion/father-mcgivney-sainthood-coronavirus.html",
+      "author": "Sandra E. Garcia",
+      "categories": [
+        "Beatifications and Canonizations",
+        "Knights of Columbus",
+        "Roman Catholic Church",
+        "McGivney, Michael J",
+        "Francis"
+      ]
+    },
+    {
+      "title": "Margaret Maughan, Medal-Winning Wheelchair Athlete, Dies at 91",
+      "type": "text",
+      "date": "2020-05-29T17:18:14.000Z",
+      "description": "Paralyzed from the waist down, she won gold in archery and swimming at the first Paralympic Games in 1960 and became an advocate of sports as therapy.",
+      "preview": "",
+      "link": "https://www.nytimes.com/2020/05/28/sports/olympics/margaret-maughan-dead.html",
+      "author": "Katharine Q. Seelye",
+      "categories": [
+        "Deaths (Obituaries)",
+        "Paralympic Games",
+        "Disabilities",
+        "Archery",
+        "Stoke Mandeville Games"
+      ]
+    },
+    {
+      "title": "Germany Wants E.U. to Sanction Head of Russian Military Intelligence",
+      "type": "image",
+      "date": "2020-05-28T19:15:50.000Z",
+      "description": "Berlin plans to invoke a new European sanctions mechanism to target a hacker who orchestrated a cyberattack on the German Parliament — and the head of Russian intelligence himself.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/world/28germany/28germany-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/world/europe/germany-russia-cyberattack-sanctions.html",
+      "author": "Katrin Bennhold",
+      "categories": [
+        "Cyberwarfare and Defense",
+        "GRU (Russia)",
+        "Merkel, Angela",
+        "Berlin (Germany)",
+        "Europe"
+      ]
+    },
+    {
+      "title": "Older Italians Warily Eye Young Crowds, Fearing 2nd Coronavirus Wave",
+      "type": "image",
+      "date": "2020-05-29T10:29:53.000Z",
+      "description": "As the country cautiously emerges from lockdown, anxieties have centered on public gatherings of teenagers and young adults — unfairly, some experts say.",
+      "preview": "https://static01.nyt.com/images/2020/05/27/world/27virus-italy1/merlin_172628226_ba8c08fd-e469-41fd-b6d5-2f78e25f4e38-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/world/europe/italy-young-people-coronavirus.html",
+      "author": "Emma Bubola",
+      "categories": [
+        "Youth",
+        "Coronavirus (2019-nCoV)",
+        "Italy",
+        "Politics and Government",
+        "Conte, Giuseppe"
+      ]
+    },
+    {
+      "title": "Hydrogen as Fuel? An Italian Pasta Factory Shows How It Could Work",
+      "type": "image",
+      "date": "2020-05-27T14:06:37.000Z",
+      "description": "A producer of orecchiette and paccheri is using the potentially clean energy source in a trial.",
+      "preview": "https://static01.nyt.com/images/2020/05/26/business/22hydrogen-5/00hydrogen-5-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/business/hydrogen-fuel-climate-change.html",
+      "author": "Stanley Reed",
+      "categories": [
+        "Alternative and Renewable Energy",
+        "Hydrogen",
+        "Snam SpA",
+        "Greenhouse Gas Emissions",
+        "Italy"
+      ]
+    },
+    {
+      "title": "Bank Regulator’s Battle With Anti-Redlining Law Comes to an End",
+      "type": "image",
+      "date": "2020-05-28T19:05:21.000Z",
+      "description": "Joseph Otting, the top overseer of the country’s largest banks, drew from his own experiences as a banker to rewrite rules for the Community Reinvestment Act. Not everyone is on board.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/business/21JPotting-print/21otting1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/business/economy/community-reinvestment-act-joseph-otting.html",
+      "author": "Emily Flitter and Jeanna Smialek",
+      "categories": [
+        "Banking and Financial Institutions",
+        "Regulation and Deregulation of Industry",
+        "United States Politics and Government",
+        "United States Economy",
+        "Law and Legislation"
+      ]
+    },
+    {
+      "title": "The TV Commercial, Once Advertising’s Main Event, Suffers in the Pandemic",
+      "type": "text",
+      "date": "2020-05-28T16:50:14.000Z",
+      "description": "People are watching more television these days. But companies are spending less time, effort and money on TV ads.",
+      "preview": "",
+      "link": "https://www.nytimes.com/2020/05/28/business/media/coronavirus-advertising.html",
+      "author": "Tiffany Hsu",
+      "categories": [
+        "Advertising and Marketing",
+        "Television",
+        "Upfronts (Television)",
+        "Quarantines",
+        "Coronavirus (2019-nCoV)"
+      ]
+    },
+    {
+      "title": "Making Home Safe for Kids This Summer",
+      "type": "image",
+      "date": "2020-05-28T17:35:17.000Z",
+      "description": "Experts identify common hazards in the home and what can be done to prevent accidents.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/multimedia/28virus-summer-safety/28virus-summer-safety-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/parenting/kids-home-safety.html",
+      "author": "Jolie Kerr",
+      "categories": [
+        "Children and Childhood",
+        "Parenting",
+        "Summer (Season)",
+        "Accidents and Safety",
+        "Quarantines"
+      ]
+    },
+    {
+      "title": "Telemedicine for Home Repairs?",
+      "type": "image",
+      "date": "2020-05-29T19:03:19.000Z",
+      "description": "The coronavirus has made homeowners wary of inviting workers into their homes, but some contractors can make a diagnosis virtually.",
+      "preview": "https://static01.nyt.com/images/2020/05/31/realestate/29Rightathome/29Rightathome-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/realestate/coronavirus-virtual-home-repairs.html",
+      "author": "Ronda Kaysen",
+      "categories": [
+        "Real Estate and Housing (Residential)",
+        "Home Appliances",
+        "Quarantine (Life and Culture)",
+        "Dobbs Ferry (NY)",
+        "Montclair (NJ)"
+      ]
+    },
+    {
+      "title": "How to Recover From Covid-19 at Home",
+      "type": "image",
+      "date": "2020-05-27T21:12:16.000Z",
+      "description": "Rest and fluids are essential, but not always enough. Here are some more things you can do to feel better.",
+      "preview": "https://static01.nyt.com/images/2020/05/29/multimedia/27covid-recovery01/27covid-recovery01-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/smarter-living/how-to-recover-from-covid-19-at-home.html",
+      "author": "Maggie Astor",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Pulse Oximetry",
+        "Coughs",
+        "Nausea"
+      ]
+    },
+    {
+      "title": "It’s Not Too Late to Get a Virtual Internship",
+      "type": "image",
+      "date": "2020-05-27T09:00:08.000Z",
+      "description": "Here’s how college students whose summer plans fell through can line up virtual internships.",
+      "preview": "https://static01.nyt.com/images/2020/05/26/well/26virtual-interns/26virtual-interns-moth-v2.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/well/family/virtual-summer-internship-college-students-coronavirus.html",
+      "author": "Lisa Heffernan",
+      "categories": [
+        "Colleges and Universities",
+        "Hiring and Promotion",
+        "Internships",
+        "Summer (Season)",
+        "Careers and Professions"
+      ]
+    },
+    {
+      "title": "How to Prepare Your Dog to Be Left at Home Alone (Again)",
+      "type": "image",
+      "date": "2020-05-29T14:14:33.000Z",
+      "description": "Whether your dog is new or old, these tips will help ease its transition from lockdown to normal life.",
+      "preview": "https://static01.nyt.com/images/2020/05/27/smarter-living/27virus-dog-prep/27virus-dog-prep-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/smarter-living/how-to-prepare-your-dog-to-be-left-at-home-alone-again.html",
+      "author": "Jen A. Miller",
+      "categories": [
+        "Animal Behavior",
+        "Veterinary Medicine",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ]
+    },
+    {
+      "title": "No Touch, No Hands-On Learning, for Now, as Museums Try to Reopen",
+      "type": "text",
+      "date": "2020-05-29T15:33:42.000Z",
+      "description": "Science and children’s museums are studying how to rethink their many tactile exhibits to keep people safe.",
+      "preview": "",
+      "link": "https://www.nytimes.com/2020/05/29/arts/design/museums-interactive-coronavirus.html",
+      "author": "Julia Jacobs",
+      "categories": [
+        "Museums",
+        "Coronavirus (2019-nCoV)",
+        "Children and Childhood",
+        "American Museum of Natural History",
+        "Brooklyn Children's Museum"
+      ]
+    },
+    {
+      "title": "Whether You’re Making a Meal or Cleaning an Oil Spill, There’s a Fungus for That",
+      "type": "image",
+      "date": "2020-05-27T09:00:01.000Z",
+      "description": "In “Entangled Life,” the biologist Merlin Sheldrake shines a celebratory spotlight on the little understood features and functions of fungal networks.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/books/27BOOKSHELDRAKE1/27BOOKSHELDRAKE1-moth.png",
+      "link": "https://www.nytimes.com/2020/05/27/books/review-entangled-life-fungi-merlin-sheldrake.html",
+      "author": "Jennifer Szalai",
+      "categories": [
+        "Entangled Life: How Fungi Make Our Worlds, Change Our Minds, and Shape Our Futures (Book)",
+        "Books and Literature",
+        "Fungi",
+        "Sheldrake, Merlin"
+      ]
+    },
+    {
+      "title": "‘Circumstantial Pleasures’ Review: The Lyrical Junkman Cometh",
+      "type": "text",
+      "date": "2020-05-28T18:05:32.000Z",
+      "description": "A new movie by Lewis Klahr, who makes striking, personal assemblages out of cultural detritus.",
+      "preview": "",
+      "link": "https://www.nytimes.com/2020/05/28/movies/circumstantial-pleasures-review.html",
+      "author": "Manohla Dargis",
+      "categories": [
+        "Movies",
+        "Circumstantial Pleasures (Movie)",
+        "Klahr, Lewis (1956- )"
+      ]
+    },
+    {
+      "title": "Richard Herd, a Baffled Boss on ‘Seinfeld,’ Is Dead at 87",
+      "type": "text",
+      "date": "2020-05-28T21:39:14.000Z",
+      "description": "A busy character actor, he also appeared on several science-fiction shows, including “Star Trek: The Next Generation,” on which he played a Klingon.",
+      "preview": "",
+      "link": "https://www.nytimes.com/2020/05/28/arts/television/richard-herd-dead.html",
+      "author": "Richard Sandomir",
+      "categories": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Television",
+        "Movies",
+        "Seinfeld (TV Program)"
+      ]
+    },
+    {
+      "title": "‘You’ll Never Walk Alone’: From Broadway Tear-Jerker to Covid-Era Anthem",
+      "type": "image",
+      "date": "2020-05-27T17:53:47.000Z",
+      "description": "Versions of the “Carousel” song by Aretha Franklin, Gerry and the Pacemakers and Liverpool F.C. fans have turned it into something universal.",
+      "preview": "https://static01.nyt.com/images/2020/05/27/arts/27carousel-anthem/27carousel-anthem-moth-v2.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/arts/music/youll-never-walk-alone-carousel-coronavirus.html",
+      "author": "Elisabeth Vincentelli",
+      "categories": [
+        "Music",
+        "Theater",
+        "Coronavirus (2019-nCoV)",
+        "Liverpool (Soccer Team)",
+        "LaBelle, Patti"
+      ]
+    },
+    {
+      "title": "Big Pharmacy Chains Also Fed the Opioid Epidemic, Court Filing Says",
+      "type": "image",
+      "date": "2020-05-28T00:10:57.000Z",
+      "description": "New details emerge in a lawsuit asserting that chains including CVS, Rite Aid and Walgreens sold millions of pills in small towns but rarely flagged suspicious orders to authorities.",
+      "preview": "https://static01.nyt.com/images/2020/05/27/science/27OPIOIDS/27OPIOIDS-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/27/health/opioids-pharmacy-cvs-litigation.html",
+      "author": "Jan Hoffman",
+      "categories": [
+        "Drugstores",
+        "Drugs (Pharmaceuticals)",
+        "Opioids and Opiates",
+        "Suits and Litigation (Civil)",
+        "OxyContin (Drug)"
+      ]
+    },
+    {
+      "title": "Trump’s Vaccine Chief Has Vast Ties to Drug Industry, Posing Possible Conflicts",
+      "type": "image",
+      "date": "2020-05-21T14:15:11.000Z",
+      "description": "Moncef Slaoui, a former pharmaceutical executive, is now overseeing the U.S. initiative to develop coronavirus treatments and vaccines. His financial interests and corporate roles have come under scrutiny.",
+      "preview": "https://static01.nyt.com/images/2020/05/20/science/00VIRUS-MODERNA1/00VIRUS-MODERNA1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/20/health/coronavirus-vaccine-czar.html",
+      "author": "Sheila Kaplan, Matthew Goldstein and Alexandra Stevenson",
+      "categories": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Slaoui, Moncef M",
+        "Moderna Inc",
+        "Conflicts of Interest"
+      ]
+    },
+    {
+      "title": "When Coral’s Colorful Show Is a Sign That It’s Sick",
+      "type": "image",
+      "date": "2020-05-22T15:10:02.000Z",
+      "description": "Under stress, certain coral species put on displays to try to re-attract symbiotic algae they need to survive.",
+      "preview": "https://static01.nyt.com/images/2020/05/22/science/22TB-CORALS1/22TB-CORALS1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/22/science/coral-color-bleaching.html",
+      "author": "David Waldstein",
+      "categories": [
+        "Coral",
+        "Reefs",
+        "Algae",
+        "Color",
+        "Global Warming"
+      ]
+    },
+    {
+      "title": "Fear of Covid-19 Leads Other Patients to Decline Critical Treatment",
+      "type": "image",
+      "date": "2020-05-29T10:38:21.000Z",
+      "description": "Psychologists say anxiety and uncertainty prompt irrational decisions — like turning down a transplant when an organ becomes available.",
+      "preview": "https://static01.nyt.com/images/2020/05/19/science/00VIRUS-FEAR1/00VIRUS-FEAR1-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/25/health/coronavirus-cancer-heart-treatment.html",
+      "author": "Katie Hafner",
+      "categories": [
+        "Transplants",
+        "Emergency Medical Treatment",
+        "Coronavirus (2019-nCoV)",
+        "Liver",
+        "Fear (Emotion)"
+      ]
+    },
+    {
+      "title": "Why Amy Cooper’s Use of ‘African-American’ Stung",
+      "type": "image",
+      "date": "2020-05-29T14:30:21.000Z",
+      "description": "In a racist confrontation with a black bird-watcher in Central Park, her choice of words was striking.",
+      "preview": "https://static01.nyt.com/images/2020/05/31/nyregion/31BIG/28BIG-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/29/nyregion/Amy-Cooper-Central-Park-racism.html",
+      "author": "Ginia Bellafante",
+      "categories": [
+        "Black People",
+        "Race and Ethnicity",
+        "Discrimination",
+        "Police Brutality, Misconduct and Shootings",
+        "Racial Profiling"
+      ]
+    },
+    {
+      "title": "Trump’s ‘Horrifying Lies’ About Lori Klausutis May Cross a Legal Line",
+      "type": "image",
+      "date": "2020-05-28T23:12:38.000Z",
+      "description": "The president’s innuendo about the death of a congressional staffer in 2001 could lead to a costly court judgment against him.",
+      "preview": "https://static01.nyt.com/images/2020/05/28/opinion/28Schuck/28Schuck-moth.jpg",
+      "link": "https://www.nytimes.com/2020/05/28/opinion/twitter-trump-scarborough.html",
+      "author": "Peter H. Schuck",
+      "categories": [
+        "Trump, Donald J",
+        "Rumors and Misinformation",
+        "Libel and Slander",
+        "Klausutis, Lori (1972-2001)",
+        "Scarborough, Joe"
+      ]
+    },
+    {
+      "title": "Try Vertex",
+      "type": "image",
+      "date": "2020-05-29T17:10:09.000Z",
+      "description": "Connect the dots to reveal the hidden picture.",
+      "preview": "https://static01.nyt.com/images/2020/03/24/crosswords/vertex-nytgames-hi-res/vertex-nytgames-hi-res-moth.jpg",
+      "link": "https://www.nytimes.com/puzzles/vertex",
+      "author": "The New York Times",
+      "categories": []
+    },
+    {
+      "title": "The Crossword, Tiles and More",
+      "type": "image",
+      "date": "2020-05-29T17:10:09.000Z",
+      "description": "Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.",
+      "preview": "https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth.jpg",
+      "link": "https://www.nytimes.com/crosswords",
+      "author": "The New York Times",
+      "categories": []
+    },
+    {
+      "title": "Try Spelling Bee",
+      "type": "image",
+      "date": "2020-05-29T17:10:09.000Z",
+      "description": "Puzzle throughout the day to see how many words you can find.",
+      "preview": "https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth.jpg",
+      "link": "https://www.nytimes.com/puzzles/spelling-bee",
+      "author": "The New York Times",
+      "categories": []
+    }
+  ]
+}

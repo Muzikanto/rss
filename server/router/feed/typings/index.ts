@@ -1,4 +1,7 @@
+export type FeedPostType = 'text' | 'image' | 'video';
+
 export interface FeedPost {
+    type: FeedPostType;
     title: string;
     author?: string;
     date: string;
